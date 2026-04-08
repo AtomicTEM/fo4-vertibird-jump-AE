@@ -5,7 +5,7 @@
 // Plugin Information
 //-----------------------
 #define PLUGIN_VERSION              16
-#define PLUGIN_VERSION_STRING       "1.9.7"
+#define PLUGIN_VERSION_STRING       "1.9.10"
 #define PLUGIN_NAME_SHORT           "vertibird_jump"
 #define PLUGIN_NAME_LONG            "Vertibird Jump"
 #define SUPPORTED_RUNTIME_VERSION   CURRENT_RELEASE_RUNTIME
